@@ -1,7 +1,7 @@
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h1 align="center">
+<h1 align="center" style="color: red">
   Welcome to Ahmed Almohamdy's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
