@@ -20,14 +20,14 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-almohamdy-16723524a/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-almohamdy-16723524a/" target="_blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ahmed Almohamdy" height="50" width="50" />
   </a>
-  <br>
-  <a href="https://www.kaggle.com/ahmedalmohamdy" target="_blank">
+
+  <a href="https://www.kaggle.com/ahmedalmohamdy" target="_blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Ahmed Almohamdy" height="50" width="50" />
   </a>
-  <br>
+  
   <a href="https://wa.me/+201006013561" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Ahmed Almohamdy" height="50" width="50" />
   </a>
