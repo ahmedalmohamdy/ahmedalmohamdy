@@ -40,7 +40,7 @@
 
 ---
 
-#### 🏫 **Bachelor's of Computer Engineering and Control Systems Zagazig University**
+#### 🏫 **Bachelor's of Computer Engineering and Control Systems  ,  Zagazig University**
 
 ---
 
@@ -70,30 +70,4 @@
 - A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
 
 
-<br>
 
-
-
-
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-  
-  <!-- Languages Card -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
-  
-  <!-- Stats Card -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
-  
-  <!-- Streak Stats -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>Current Streak</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&" alt="Current Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
-
-</div>
