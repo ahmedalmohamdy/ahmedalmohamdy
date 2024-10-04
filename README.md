@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Almohamdy</h1>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">Data Scientist and AI Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -12,22 +12,24 @@
 
 ### 👨‍💻 About Me:
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
-- 📫 **Reach me at**: [ahmedmohamedhassen4@gmail.com](mailto:ahmedmohamedhassen4@gmail.com) | **+20 1006013561**  
-- ⚡ **Fun fact**: I'm passionate about learning new things!  
+- 📫 **Reach me at**: [ahmedmohamedhassen4@gmail.com](mailto:ahmedmohamedhassen4@gmail.com) |
+                       **+20 1006013561**  
+- ⚡ **I'm passionate about learning new things!**  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-almohamdy-16723524a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ahmed Almohamdy" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ahmed Almohamdy" height="50" width="50" />
   </a>
+  <br>
   <a href="https://www.kaggle.com/ahmedalmohamdy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Ahmed Almohamdy" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Ahmed Almohamdy" height="50" width="50" />
   </a>
-  
+  <br>
   <a href="https://wa.me/+201006013561" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Ahmed Almohamdy" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Ahmed Almohamdy" height="50" width="50" />
   </a>
 </p>
 
