@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me:
+# 👨‍💻 About Me:
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
 - 📫 **Reach me at**: [ahmedmohamedhassen4@gmail.com](mailto:ahmedmohamedhassen4@gmail.com) |
                        **+20 1006013561**  
@@ -36,7 +36,7 @@
 
 <br>
 
-### 🎓 Education
+# 🎓 Education
 
 ---
 
@@ -47,7 +47,7 @@
 <br>
 
 
-## 🌟 Soft Skills
+# 🌟 Soft Skills
 
 ### 🎯 Problem-Solving & Critical Thinking
 - Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
